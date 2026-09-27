@@ -5,7 +5,7 @@ A desktop to-do list application built with Python and `customtkinter`.
 ## Features
 
 - **Modern UI**: A clean and modern user interface.
-- Easy way to maintain the time management and the priority 
+- Easy way to maintain the time management and the priority for the better effeciency
 - **Task Management**: Add, edit, and delete tasks.
 - **Priority Levels**: Assign Low, Medium, or High priority to tasks.
 - **Due Dates**: Set due dates for each task using a calendar.
